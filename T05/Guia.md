@@ -2,6 +2,14 @@
 
 ![foto](img_t05carlesfugaroles/1capdns.png)
 
+![foto](img_t05carlesfugaroles/2capdns.png)
+
+Entrem a ajustes a l’apartat de network & internet i on posa DNS server assigment l’editem.
+
+![foto](img_t05carlesfugaroles/3capdns.png)
+
+La posem manual activem l’ipv4 i posem 127.0.0.1 que es la nostre i fem save
+
 ![foto](img_t05carlesfugaroles/10.png)
 
 Tornem a entrar al server manager i adalt a la dreta anem a manage i la primera opcio. 
