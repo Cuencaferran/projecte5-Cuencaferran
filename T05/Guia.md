@@ -1,5 +1,7 @@
 ## T05: Instal·lació del domini
 
+![foto](img_t05carlesfugaroles/1capdns.png)
+
 ![foto](img_t05carlesfugaroles/10.png)
 
 Tornem a entrar al server manager i adalt a la dreta anem a manage i la primera opcio. 
