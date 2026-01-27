@@ -42,11 +42,5 @@ Un com fem el canvi de nom la propia màquina ens dona l’opció de reiniciar.
 
 Com podeu veure ja ens hem cambiat el nom. 
 
-![foto](img_t04carlesfugaroles/8.png) 
 
-Entrem a ajustes a l’apartat de network & internet i on posa DNS server assigment l’editem.
-
-![foto](img_t04carlesfugaroles/9.png) 
-
-La posem manual activem l’ipv4 i posem 127.0.0.1 que es la nostre i fem save
 
