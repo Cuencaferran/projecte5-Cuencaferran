@@ -148,3 +148,8 @@ I el segon al posem habilitat amb amfitrió.
 ![foto](img_t03blai/35.png)
 
 I posan la nostre ip de la màquina del servido amb al nom del usuari creat al servidor i la seva contrasenya ens haurien de sortir totes las carpetes creades al servidor correctament. 
+
+![foto](img_t03blai/36.png)
+
+I fem al mateix però amb sftp doc1 i envés de cd proyectos fem cd documentación. 
+
