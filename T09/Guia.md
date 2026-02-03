@@ -84,4 +84,9 @@ I la iniciem i ens esperem fins que acabi la instal·lació.
 
 ![foto](img_t09carlos/22.png)
 
+Ja tenim l’escaneig fet al complet.
+
+![foto](img_t09carlos/23.png)
+
+Aquí podem veure les vulnerabilitats després de haver fet el escaneig.
 
