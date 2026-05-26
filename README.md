@@ -46,18 +46,51 @@ projecte5/
 Bona sort! 🚀
 
 
-# TASQUES I PRODUCTES
+# 📂 Índex General de Projectes i Tasques — PROJECTE5-CUENCAFERRAN
 
-| Tasques                                                       | Productes                                                   |
-|---------------------------------------------------------------|-------------------------------------------------------------|
-| 📁 [T00](.//T00)                                       | 📦 [P01](.//P01)                                   |
-| 📁 [T01](.//T01)                                       | 📦 [P02](.//P02)                                   |
-| 📁 [T02](.//T02)                                       | 📦 [P03](.//P03)                                   |
-| 📁 [T03](.//T03)                                       |                                                             |
-| 📁 [T04](.//T04)                                       |                                                             |
-| 📁 [T05](.//T05)                                       |                                                             |
-| 📁 [T06](.//T06)                                       |                                                             |
-| 📁 [T07](.//T07)                                       |                                                             |
-| 📁 [T08](.//T08)                                       |                                                             |
-| 📁 [T09](.//T09)                                       |                                                             |
-| 📁 [T10](.//T10)                                   |                                                             |
+Benvingut/da al repositori principal del projecte. Aquest document serveix com a nexe de unió i índex interactiu per accedir de forma directa a les diferents unitats de treball, laboratoris pràctics i documentacions de consultoria desenvolupades.
+
+---
+
+## 🚀 Projectes Transversals (P)
+
+Aquestes carpetes contenen els blocs pràctics i els lliurables de caire corporatiu o d'infraestructura base:
+
+* 🛠️ **[P01: Control de Versions — GitHub Classroom i Git](./P01%20Control%20de%20versions.%20GitHub%20Classroom%20i%20git/)**
+  * *Primer contacte amb la plataforma remota i configuració de l'entorn de treball cooperatiu.*
+* 🔑 **[P02: Llicenciament Windows Server 2025](./P02%20Llicenciament%20Windows%20Server%202025/)**
+  * *Estudi de models de llicències corporatives i normatives d'activació en entorns de servidor.*
+* 🍃 **[P03: Presentació d'Empresa amb Visió Green IT](./P03%20Presentaci%C3%B3%20empresa%20amb%20visi%C3%B3%20Green%20IT/)**
+  * *Dossier i presentació de la startup integrant valors i estratègies de sostenibilitat tecnològica.*
+
+---
+
+## 📑 Unitats de Treball i Tasques Tècniques (T)
+
+Accedeix directament als fitxers `README.md` i laboratoris específics de cada mòdul configurat:
+
+### ⚙️ Arquitectura, Sistemes i Serveis
+* 📐 **[T01: Disseny de la Solució Tècnica Integrada](./T01%20Disseny%20de%20la%20Soluci%C3%B3%20T%C3%A8cnica%20Integrada/)** — *Planificació de la infraestructura.*
+* 🔄 **[T02: Control de Versions — Treballant amb Git](./T02%20Control%20de%20versions.%20Treballant%20amb%20git/)** — *Flux de treball local i remote (add, commit, push, pull).*
+* 📁 **[T03: Serveis de Transferència de Fitxers](./T03%20Serveis%20de%20transfer%C3%A8ncia%20de%20fitxers/)** — *Laboratori pràctic d'entorns FTP tradicionals i servidors sFTP segurs.*
+* 💿 **[T04: Instal·lació de Windows Server 2025](./T04%20Instal%C2%B7laci%C3%B3%20Windows%20Server%202025/)** — *Desplegament basat en el sistema operatiu de xarxa.*
+* 🌐 **[T05: Instal·lació del Domini](./T05%20Instal%C2%B7laci%C3%B3%20del%20domini/)** — *Configuració inicial del controlador de domini.*
+* 👥 **[T06: Configuració del Domini](./T06%20Configuraci%C3%B3%20del%20domini/)** — *Gestió d'objectes d'Active Directory (OUs, Grups, Plantilles i Windows 11).*
+
+### 🖥️ Plataformes de Gestió i Ciberseguretat
+* 🎓 **[T07: Acadèmia feta amb Moodle](./T07%20Acad%C3%A8mia%20feta%20amb%20Moodle/)** — *Implantació integral, rols, activitats interactives i gamificació a l'Escola Júlia.*
+* 🛡️ **[T08: Seguretat — Protegint-nos contra el Malware](./T08%20Seguretat%20protegint-nos%20contra%20el%20malware/)** — *Mecanismes de defensa activa, hardening de Windows i resposta a incidents.*
+* 🔍 **[T09: Seguretat — Les Vulnerabilitats dels Sistemes](./T09%20Seguretat%20les%20vulnerabilitats%20dels%20sistemes/)** — *Auditoria, escaneig de ports i aplicació de contramesures i pegats.*
+
+### 🌍 Sostenibilitat
+* 🌱 **[T10: Introducció al Concepte Green IT](./T10%20Introducci%C3%B3%20al%20concepte%20Green%20IT/)** — *Disseny de polítiques d'eficiència energètica i mètriques sostenibles per a l'empresa.*
+
+---
+
+## 🛠️ Requisits de l'Entorn de Laboratori
+
+Per replicar o fer el seguiment de les pràctiques d'aquest repositori, es requereix:
+* **Hipervisor:** Oracle VM VirtualBox o VMware Workstation.
+* **Sistemes Operatius Clients:** Windows 11 Pro (min. 4 GB RAM).
+* **Sistemes Operatius Servidor:** Windows Server 2025 Standard (amb rols AD DS, DHCP, DNS).
+* **IDE recomanat:** Visual Studio Code amb extensions Markdown habilitades.
