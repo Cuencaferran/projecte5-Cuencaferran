@@ -47,3 +47,7 @@ Com a consultors informàtics, s'ha de resoldre i documentar els següents punts
 
 * 📑 **UD6.AA1. Introducció a Windows Server** — *Disponibilitat:* Material teòric dins del Moodle de l'assignatura *Sistemes Operatius en Xarxa (SOX)*[cite: 1].
 * 🌐 **Microsoft (Preus i Llicenciament):** [Preus oficials i models de llicenciament de Windows Server](https://www.microsoft.com) * (Consultar els enllaços i taules de preus de referència proveïts a la plataforma)[cite: 1].
+
+## LINK LLICENCIAMENT WINDOWS SERVER 2025
+
+**[LINK LLICENCIAMENT WINDOWS SERVER 2025](https://mail.google.com/mail/u/0/?tab=rm&ogbl#chat/dm/wQ5EKcAAAAE)**
