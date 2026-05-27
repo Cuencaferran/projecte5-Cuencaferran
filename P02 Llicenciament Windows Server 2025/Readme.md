@@ -50,4 +50,4 @@ Com a consultors informàtics, s'ha de resoldre i documentar els següents punts
 
 ## LINK LLICENCIAMENT WINDOWS SERVER 2025
 
-**[LINK LLICENCIAMENT WINDOWS SERVER 2025](https://mail.google.com/mail/u/0/?tab=rm&ogbl#chat/dm/wQ5EKcAAAAE)**
+**[LINK LLICENCIAMENT WINDOWS SERVER 2025](https://drive.google.com/file/d/1v-H0i46g1VOQdWrBUaeKjVCvoLJJuhrX/view?usp=sharing)**
