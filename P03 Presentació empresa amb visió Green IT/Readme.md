@@ -69,6 +69,8 @@ El guió s'ha d'enfocar com un fil conductor professional i madur, seguint de ma
 
 Abans del dia de la presentació final davant del grup, és **obligatori** realitzar una sessió específica d'assaig oral i poliment del suport visual[cite: 1]. 
 
+**[LINK T01](https://github.com/Cuencaferran/projecte5-Cuencaferran/tree/main/T01%20Disseny%20de%20la%20Soluci%C3%B3%20T%C3%A8cnica%20Integrada)**
+
 * **Objectiu:** Detectar errors, quadrar el temps i millorar el discurs[cite: 1].
 * **Requisit de lliurament:** S'ha d'entregar un fitxer que evidenciï aquest assaig previ[cite: 1].
 * **Formats acceptats:** Vídeo gravat amb el mòbil, fitxer d'àudio o una gravació de pantalla (*screencast*) amb les veus de l'equip[cite: 1].
